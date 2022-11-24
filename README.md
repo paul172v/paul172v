@@ -1,0 +1,1 @@
+I am a self-taught web developer who is looking for his first role in the industry. I am comfortable with HMTL, CSS and JavaScript. I have recently learned React. I have experience with AdobeXD and Figma and am currently learning Node.JS, Express, Mongoose, MongoDB and Postman.
